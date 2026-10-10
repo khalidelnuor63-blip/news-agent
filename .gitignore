@@ -1,0 +1,13 @@
+# مفاتيح وإعدادات حساسة
+.env
+*.key
+com.news.agent.plist
+
+# ملفات التقارير المولدة
+*.mp3
+report_*.txt
+
+# ملفات Python
+__pycache__/
+*.pyc
+.venv/
